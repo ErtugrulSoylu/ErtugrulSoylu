@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C24&width=435&lines=Welcome+to+my+world)](https://git.io/typing-svg)
 
 <a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=Metu25_Algo-Contest" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=Metu25_Algo-Contest&theme=algolia" />
 </a>
 
 
