@@ -5,6 +5,7 @@
 </a> | <a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=LeetCode&theme=algolia" />
 </a> |
+|:-:|:-:|
 
 ---
 
