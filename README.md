@@ -2,12 +2,9 @@
 
 | <a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=Metu25_Algo-Contest&theme=algolia" />
-</a>
-|
-<a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
+</a> | <a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=LeetCode&theme=algolia" />
-</a>
-|
+</a> |
 
 ---
 
