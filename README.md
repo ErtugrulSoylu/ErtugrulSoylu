@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=Metu25_Algo-Contest&theme=algolia" />
 </a>
 
-<a href="https://github.com/ErtugrulSoylu/Metu25_Algo-Contest">
+<a href="https://github.com/ErtugrulSoylu/LeetCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=LeetCode&theme=algolia" />
 </a>
 
