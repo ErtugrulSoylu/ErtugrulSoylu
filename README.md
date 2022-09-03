@@ -4,6 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=Metu25_Algo-Contest&theme=algolia" />
 </a>
 
+<a href="https://github.com/ErtugrulSoylu/aeronistiha_drone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErtugrulSoylu&repo=aeronistiha_drone&theme=algolia" />
+</a>
+
 ---
 
 | [![Ertugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErtugrulSoylu&layout=compact&hide=issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErtugrulSoylu&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) |
